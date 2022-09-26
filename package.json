@@ -1,0 +1,12 @@
+{
+  "name": "validate-body",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/app.ts",
+  "scripts": {
+    "test": "npx ts-node src/test.ts",
+    "dev": "nodemon src/app.ts"
+  },
+  "author": "lenny",
+  "license": "UNLICENSED"
+}
