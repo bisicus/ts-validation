@@ -1,0 +1,14 @@
+{
+    "post_test": null,
+    "pre_test": {
+        "contact": {
+            "cartridge": true,
+            "ramp": -0.002017,
+            "tau": 10,
+            "tau_changed": false,
+            "additional3": "i want to break free"
+        },
+        "additional2": true
+    },
+    "additional1": 100
+}

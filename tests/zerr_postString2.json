@@ -1,0 +1,13 @@
+{
+    "post_test": {
+        "binning": "I want to fail, but nested"
+    },
+    "pre_test": {
+        "contact": {
+            "cartridge": true,
+            "ramp": -0.002017,
+            "tau": 10,
+            "tau_changed": false
+        }
+    }
+}

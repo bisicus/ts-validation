@@ -1,0 +1,11 @@
+{
+    "pre_test": {
+        "contact": {
+            "cartridge": false,
+            "dc_voltage_compensation": null,
+            "ramp": null,
+            "tau": null,
+            "tau_changed": false
+        }
+    }
+}
